@@ -1,3 +1,4 @@
+# Python3 program to calculate the CGPA 
 # and CGPA percentage of a student
 def CgpaCalc(marks, n):
  
